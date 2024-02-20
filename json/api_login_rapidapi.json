@@ -1,0 +1,6 @@
+{
+    "X-RapidAPI-Key": "YOUR-RAPIDAPI-KEY",
+    "X-RapidAPI-Host": "aerodatabox.p.rapidapi.com",
+    "aeroflightbox_url_base": "https://aerodatabox.p.rapidapi.com/flights/airports/icao/"
+}
+

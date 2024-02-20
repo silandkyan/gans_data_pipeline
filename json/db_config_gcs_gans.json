@@ -1,0 +1,8 @@
+{
+    "schema": "gans",
+    "host": "YOUR-GCS-IP-ADDRESS",
+    "user": "root",
+    "port": 3306,
+    "db_password": "YOUR-PASSWORD"
+}
+
