@@ -1,0 +1,6 @@
+functions-framework==3.*
+pandas==2.1.4
+pytz==2023.3.post1
+requests==2.31.0
+SQLAlchemy==2.0.25
+PyMySQL==1.0.2
